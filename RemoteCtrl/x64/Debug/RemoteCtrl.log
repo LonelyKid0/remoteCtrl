@@ -1,5 +1,7 @@
 ﻿  RemoteCtrl.cpp
+E:\c++Learn\remoteControl\remoteCtrl\RemoteCtrl\ServerSocket.h(110,65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   ServerSocket.cpp
+E:\c++Learn\remoteControl\remoteCtrl\RemoteCtrl\ServerSocket.h(110,65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   正在生成代码...
-E:\c++Learn\remoteControl\remoteCtrl\RemoteCtrl\ServerSocket.h(33): warning C4715: “CServerSocket::AceeptClient”: 不是所有的控件路径都返回值
+E:\c++Learn\remoteControl\remoteCtrl\RemoteCtrl\ServerSocket.h(101): warning C4715: “CServerSocket::AceeptClient”: 不是所有的控件路径都返回值
   RemoteCtrl.vcxproj -> E:\c++Learn\remoteControl\remoteCtrl\x64\Debug\RemoteCtrl.exe
